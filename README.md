@@ -1,5 +1,5 @@
 # Matriz-de-Compet-ncias-em-Engenharia-de-Software-
-Tradução da Matriz de Competências em Programação de Sijin Joseph. A original pode ser encontrada[aqui]: https://sijinjoseph.com/programmer-competency-matrix/ .
+Tradução da Matriz de Competências em Programação de Sijin Joseph. A original pode ser encontrada [aqui](https://sijinjoseph.com/programmer-competency-matrix/).
 
 | Ciência da Computação   | 2n (Nível 0)                                                 | n2 (Nível 1)                                                 | n (Nível 2)                                                  | log(n) (Nível 3)                                             | Comentários |
 | ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------- |
